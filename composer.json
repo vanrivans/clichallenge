@@ -1,0 +1,21 @@
+{
+    "name": "vanrivans/clichallenge",
+    "description": "CLI create CSV",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vanrivans\\Clichallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rivan",
+            "email": "rvnsyahp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "^6.1"
+    }
+}
